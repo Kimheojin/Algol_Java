@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Java_1021 {
 
     public static void main(String[] args) throws IOException {
 
